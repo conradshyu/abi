@@ -1,7 +1,7 @@
 # ABI Trace File Export
 
 Written by [Conrad Shyu](mailto:conradshyu@hotmail.com)<br>
-*last updated on July 5, 2020*
+*last updated on September 25, 2025*
 
 > **Note**: This is only the source code repository. Example trace files are not available.
 
