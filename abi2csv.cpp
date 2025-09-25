@@ -14,6 +14,7 @@
 // for standard c libraries
 #include <errno.h>
 #include <dirent.h>
+#include <unistd.h>
 #include <fnmatch.h>
 
 #include <abitag.h>
